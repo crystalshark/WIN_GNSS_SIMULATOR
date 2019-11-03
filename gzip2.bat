@@ -1,0 +1,1 @@
+gzip -d brdc1210.19n.Z

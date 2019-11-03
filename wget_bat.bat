@@ -1,0 +1,1 @@
+wget ftp://cddis.gsfc.nasa.gov/gnss/data/daily/2019/brdc/brdc1210.19n.Z
