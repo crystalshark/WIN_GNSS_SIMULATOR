@@ -1,7 +1,7 @@
 
 WIN_GNSS_SIMULATOR
 
-port "gps sdr sim" to widnows and make it easy to use
+port "gps sdr sim" to windows and make it easy to use
 
 * auto download Ephemeris file from server
 * do not creat .bin file,but using buffer
