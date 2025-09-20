@@ -1,5 +1,5 @@
 
-WIN_GNSS_SIMULATOR
+WIN_GNSS_SIMULATOR (move to  https://gitee.com/crystalshark/WIN_GNSS_SIMULATOR.git )
 
 port "gps sdr sim" to windows and make it easy to use
 
